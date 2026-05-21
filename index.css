@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    background-color: navy;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    color: aliceblue;
+}
+
+.score {
+    display: flex;
+    justify-content: space-around;
+    height: 40px;
+    align-items: center;
+    font-size: 70px;
+    color: brown;
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.b1{
+    display: inline-block;
+    gap: 5px;
+    margin-left: 25px;
+    margin-top: 45px;
+}
+
+.b2{
+    display: inline-block;
+    gap: 5px;
+    margin-left: 25px;
+    margin-top: 45px;
+}
+
